@@ -1,0 +1,20 @@
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\bin\Debug\Triangulos.exe.config
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\bin\Debug\Triangulos.exe
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\bin\Debug\Triangulos.pdb
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.Form1.resources
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.Properties.Resources.resources
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.GenerateResource.cache
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.exe
+C:\Users\Alexandre\source\repos\Triangulos\Triangulos\obj\Debug\Triangulos.pdb
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\bin\Debug\Triangulos.exe.config
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\bin\Debug\Triangulos.exe
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\bin\Debug\Triangulos.pdb
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\obj\Debug\Triangulos.csprojAssemblyReference.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\obj\Debug\Triangulos.Form1.resources
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\obj\Debug\Triangulos.Properties.Resources.resources
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.GenerateResource.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\obj\Debug\Triangulos.exe
+C:\Users\Alexandre\Documents\Lucas\1º MÓDULO MATÉRIAS ETEC\TÉCNICAS DE PROGRAMAÇÃO\Triangulos\Triangulos\obj\Debug\Triangulos.pdb
